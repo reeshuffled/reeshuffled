@@ -8,4 +8,4 @@ I enjoy...
 * developing educational games and activities.
 
 ## About Me
-I am currently a junior at [UMBC](https://www.umbc.edu/) studying Computer Science and Philosophy as a double degree undergraduate student.
+I am currently a senior at [UMBC](https://www.umbc.edu/) studying Computer Science and Philosophy as a double degree undergraduate student.
