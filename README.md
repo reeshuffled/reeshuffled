@@ -8,4 +8,4 @@ I enjoy...
 * developing educational games and activities.
 
 ## About Me
-I am graduated from[UMBC](https://www.umbc.edu/) with degrees in Computer Science (B.S.) and Philosophy (B.A.).
+I am graduated from [UMBC](https://www.umbc.edu/) with degrees in Computer Science (B.S.) and Philosophy (B.A.).
