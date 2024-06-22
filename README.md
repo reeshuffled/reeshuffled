@@ -1,5 +1,4 @@
 ## Hi there 👋
-### My name is Rees Draminski
 
 I enjoy...
 * creating niche web applications with minimalist aesthetics.
